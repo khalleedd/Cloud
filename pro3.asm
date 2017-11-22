@@ -1,5 +1,0 @@
-.586
-.MODEL FLAT
-.STACK 4096 
-.DATA
-      
